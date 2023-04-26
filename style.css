@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #79685b;
+}
+h1{
+font-weight: 400;
+color: #1b120c;
+font-size: 60px;
+width: 70%;
+
+}
+body{
+    background-color: #d9c8c0;
+}
+.div-parent{
+    background-color: #fff8ef;
+}
+.nav-link{
+    color: #79685b;
+
+}
+.btn{
+    height: 40px;
+   padding: 5px 22px;
+    background-color: #eae0d6;
+    color: #fff8ef;
+}
